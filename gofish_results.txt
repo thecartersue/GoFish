@@ -1,0 +1,167 @@
+Game played all the way to the end
+Khalid has : 5c,Jh,Kc,9d,8s,2s,As,10c,Ad,3d,10d,7d,
+Zane has : Jd,10s,Ks,9h,2c,4d,2d,4c,3c,Js,Qc,Qs,
+Let the Games Begin
+
+Khalid asks - Do you have a 9.
+Zane says - Yes. I have a 9.
+Khalid books 9d and 9h.
+
+Zane asks - Do you have a K.
+Khalid says - Yes. I have a K.
+Zane books Ks and Kc.
+
+Khalid asks - Do you have a J.
+Zane says - Go Fish.
+Khalid draws 10h.
+
+Zane asks - Do you have a 3.
+Khalid says - Yes. I have a 3.
+Zane books 3c and 3d.
+
+Khalid asks - Do you have a J.
+Zane says - Go Fish.
+Khalid draws 9s.
+
+Zane asks - Do you have a 10.
+Khalid says - Yes. I have a 10.
+Zane books 10s and 10h.
+
+Khalid asks - Do you have a J.
+Zane says - Go Fish.
+Khalid draws 8d.
+Khalid books 8s and 8d.
+
+Zane draws Qd.
+
+Khalid asks - Do you have a 5.
+Zane says - Go Fish.
+Khalid draws 7s.
+Khalid books 7d and 7s.
+
+Zane asks - Do you have a Q.
+Khalid says - Go Fish.
+Zane draws Jc.
+
+Khalid asks - Do you have a 9.
+Zane says - Go Fish.
+Khalid draws 8c.
+
+Zane asks - Do you have a J.
+Khalid says - Yes. I have a J.
+Zane books Jc and Jh.
+
+Khalid asks - Do you have a 8.
+Zane says - Go Fish.
+Khalid draws 6c.
+
+Zane asks - Do you have a Q.
+Khalid says - Go Fish.
+Zane draws Kd.
+
+Khalid asks - Do you have a 5.
+Zane says - Go Fish.
+Khalid draws 5s.
+Khalid books 5c and 5s.
+
+Zane asks - Do you have a K.
+Khalid says - Go Fish.
+Zane draws 6s.
+
+Khalid asks - Do you have a 6.
+Zane says - Yes. I have a 6.
+Khalid books 6c and 6s.
+
+Zane asks - Do you have a K.
+Khalid says - Go Fish.
+Zane draws 4s.
+
+Khalid asks - Do you have a 9.
+Zane says - Go Fish.
+Khalid draws 6h.
+
+Zane asks - Do you have a K.
+Khalid says - Go Fish.
+Zane draws 5h.
+
+Khalid asks - Do you have a 6.
+Zane says - Go Fish.
+Khalid draws 3s.
+
+Zane asks - Do you have a 5.
+Khalid says - Go Fish.
+Zane draws Ah.
+
+Khalid asks - Do you have a 2.
+Zane says - Go Fish.
+Khalid draws 9c.
+Khalid books 9s and 9c.
+
+Zane asks - Do you have a Q.
+Khalid says - Go Fish.
+Zane draws 8h.
+
+Khalid asks - Do you have a 3.
+Zane says - Go Fish.
+Khalid draws 7c.
+
+Zane asks - Do you have a K.
+Khalid says - Go Fish.
+Zane draws Ac.
+Zane books Ah and Ac.
+
+Khalid asks - Do you have a 2.
+Zane says - Go Fish.
+Khalid draws 7h.
+Khalid books 7c and 7h.
+
+Zane asks - Do you have a Q.
+Khalid says - Go Fish.
+Zane draws Qh.
+Zane books Qd and Qh.
+
+Khalid asks - Do you have a 3.
+Zane says - Go Fish.
+Khalid draws Kh.
+
+Zane asks - Do you have a 8.
+Khalid says - Yes. I have a 8.
+Zane books 8h and 8c.
+
+Khalid asks - Do you have a K.
+Zane says - Yes. I have a K.
+Khalid books Kh and Kd.
+
+Zane asks - Do you have a 5.
+Khalid says - Go Fish.
+Zane draws 5d.
+Zane books 5h and 5d.
+
+Khalid asks - Do you have a 6.
+Zane says - Go Fish.
+Khalid draws 3h.
+Khalid books 3s and 3h.
+
+Zane asks - Do you have a 4.
+Khalid says - Go Fish.
+Zane draws 2h.
+
+Khalid asks - Do you have a 6.
+Zane says - Go Fish.
+Khalid draws 4h.
+
+Zane asks - Do you have a 2.
+Khalid says - Yes. I have a 2.
+Zane books 2h and 2s.
+
+Khalid asks - Do you have a 4.
+Zane says - Yes. I have a 4.
+Khalid books 4h and 4s.
+
+Zane draws 6d.
+
+Khalid asks - Do you have a 6.
+Zane says - Yes. I have a 6.
+Khalid books 6h and 6d.
+
+Its a tie
